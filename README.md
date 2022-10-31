@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vlxd912
+- 👋 Hi, I’m @vladcirjan
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Fullstack JS.
 - 💞️ I’m looking to collaborate with O'Clock.
